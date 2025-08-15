@@ -22,3 +22,5 @@
   
 </div>
 
+ <img src="https://raw.githubusercontent.com/Durantanes/Durantanes/output/snake.svg" alt="Snake animation" />
+
